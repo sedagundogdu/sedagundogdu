@@ -2,8 +2,8 @@ Hi 👋 I'm Seda
 =====================
 
 * 🧠  I'm learning Java, C++
-* 🤝  I'm open to collaborating on i like to make origami
 * ⚡  Fun fact 'I like to make origami'
+
 
 ### Skills
 
