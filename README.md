@@ -1,4 +1,4 @@
-       Hi 👋 I'm Seda
+   Hi 👋 I'm Seda
 =====================
 
 * 🧠  I'm learning Java, C++
