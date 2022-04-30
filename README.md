@@ -18,3 +18,9 @@ Hi 👋 My name is Seda
 ### Socials
 
 <a href="https://www.linkedin.com/in/seda-gundogdu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p><a href="https://www.hackerrank.com/sedagundogdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sedagundogdu" height="30" width="40"/></a>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/seda-gundogdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seda-gundogdu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sedagundogdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sedagundogdu" height="30" width="40" /></a>
+</p>
