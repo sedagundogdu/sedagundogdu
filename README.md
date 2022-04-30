@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seda</h1>
-- 🌱 I’m currently learning **Java, C++**
+-🌱 I’m currently learning Java, C++
 
-- ⚡ Fun fact **I like to make origami**
+-⚡ Fun fact **I like to make origami**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
