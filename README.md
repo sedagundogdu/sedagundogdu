@@ -18,7 +18,3 @@ Hi 👋 My name is Seda
 ### Socials
 
 <a href="https://www.linkedin.com/in/seda-gundogdu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p><a href="https://www.hackerrank.com/sedagundogdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sedagundogdu" height="30" width="40" /></a>
-
-### Badges
-
-<a href="https://github.com/sedagundogdu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedagundogdu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
