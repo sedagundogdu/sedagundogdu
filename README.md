@@ -1,7 +1,7 @@
    Hi 👋 I'm Seda
 =====================
 
-* 🧠  I'm learning Java, C++, Javascript
+* 🧠  I'm learning  Asp.Net Core
 * ⚡  Fun fact 'I like to make origami'
 
 
