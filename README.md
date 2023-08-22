@@ -1,9 +1,5 @@
 # <div align="center">Hi 👋, I'm Seda Gündoğdu </div>  
 
-##  👀 Profile Views
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sedagundogdu/count.svg?"  />
-</div>
 
 ## 📊 GitHub Stats
 
@@ -26,5 +22,9 @@
 <a href="https://linkedin.com/in/seda-gundogdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seda-gundogdu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sedagundogdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sedagundogdu" height="30" width="40" /></a>
 </p>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/sedagundogdu/count.svg?"  />
+</div>
 
 
