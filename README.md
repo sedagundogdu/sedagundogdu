@@ -19,7 +19,7 @@
 <a href="https://www.hackerrank.com/sedagundogdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sedagundogdu" height="30" width="40" /></a>
 </p>
 
-### Stats
+### 📊 GitHub Stats
 <a href="http://www.github.com/sedagundogdu"><img src="https://github-readme-stats.vercel.app/api?username=sedagundogdu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="sedagundogdu's GitHub stats" /></a>
 
 <a href="http://www.github.com/sedagundogdu"><img src="https://activity-graph.herokuapp.com/graph?username=sedagundogdu&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
