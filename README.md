@@ -8,6 +8,7 @@
 </div>
 
 ###
+📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sedagundogdu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -30,5 +31,5 @@
 <a href="https://www.hackerrank.com/sedagundogdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sedagundogdu" height="30" width="40" /></a>
 </p>
 
-## 📊 GitHub Stats
+
 
