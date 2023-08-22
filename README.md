@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/sedagundogdu/count.svg?"  />
 </div>
 
-## 📊 GitHub Stats
+//## 📊 GitHub Stats
 
 ###
 
