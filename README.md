@@ -13,7 +13,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 </p>
 
-<h3 align="left">Socials</h3>
+<h2 align="left">Socials</h3>
 <p align="left">
 <a href="https://linkedin.com/in/seda-gundogdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seda-gundogdu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sedagundogdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sedagundogdu" height="30" width="40" /></a>
