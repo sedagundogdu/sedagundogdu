@@ -1,6 +1,6 @@
-<center> Hi 👋, I'm Seda Gündoğdu </center>
-
+### <div align="center">Hi 👋, I'm Seda Gündoğdu </div>  
 ===================================================================================================================================================================
+Hi 👋, I'm Seda Gündoğdu
 
 * 🧠  I'm learning  Asp.Net Core
 * ⚡  Fun fact 'I like to make origami'
