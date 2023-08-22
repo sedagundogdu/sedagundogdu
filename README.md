@@ -1,7 +1,6 @@
 # <div align="center">Hi 👋, I'm Seda Gündoğdu </div>  
 
 
-## 📊 GitHub Stats
 
 ###
 
