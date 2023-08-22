@@ -1,5 +1,5 @@
-   Hi 👋 I'm Seda
-=====================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Seda Gündoğdu
+=====================================================================================================================================
 
 * 🧠  I'm learning  Asp.Net Core
 * ⚡  Fun fact 'I like to make origami'
