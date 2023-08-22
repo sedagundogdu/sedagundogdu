@@ -1,7 +1,5 @@
 # <div align="center">Hi 👋, I'm Seda Gündoğdu </div>  
 
-* 🧠  I'm learning  Asp.Net Core
-* ⚡  Fun fact 'I like to make origami'
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/sedagundogdu/count.svg?"  />
