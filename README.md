@@ -22,8 +22,4 @@
 <a href="https://www.hackerrank.com/sedagundogdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sedagundogdu" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sedagundogdu/count.svg?"  />
-</div>
-
 
